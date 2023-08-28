@@ -1,4 +1,4 @@
-# Face Recognition Tutorial using LBPH Algorithm
+# Face Recognition Tutorial
 
 ## Introduction
 
